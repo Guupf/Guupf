@@ -4,7 +4,7 @@
 
 Nada me anima mais que resolver um problema que estava na minha cabeça faz tempo.
 
-O que eu venho estudando é JS e TS, sou fluente em inglês e espanhol e venho estudando russo e hebraico por iniciativa própria
+O que eu venho estudando é JS e TS, sou fluente em inglês e espanhol e tenho me ensinado russo e hebraico
 
 Gosto de brincar com ferramentas tipo GMAT quando tô livre :p
 
